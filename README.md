@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushma Shrestha</h1>
 <h3 align="center">IT student who loves programming.</h3>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Flutter.**
