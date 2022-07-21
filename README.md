@@ -39,9 +39,7 @@
                 alt="photoshop" width="40" height="40" /> </a>
 </p>
 
-<br/>
-    
-    <hr/>
+<hr>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushma-Shrestha&show_icons=true&theme=radical" />
 </div>
