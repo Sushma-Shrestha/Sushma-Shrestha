@@ -20,6 +20,18 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Experience_Design_logo.svg"
+                    alt="express" width="40" height="40" /> </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="nestjs"
+                    width="40" height="40" /> </a>
+      <a href="https://www.photoshop.com/en" target="_blank"
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+                alt="photoshop" width="40" height="40" /> </a>
 </p>
 
 <br/>
