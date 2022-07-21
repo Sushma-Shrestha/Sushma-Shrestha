@@ -40,6 +40,11 @@
 </p>
 
 <br/>
+    
+    <hr/>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushma-Shrestha&show_icons=true&theme=radical" />
+</div>
 
 ## Connect with me:
 <p align="left">
@@ -47,7 +52,4 @@
 <a href = "https://www.linkedin.com/in/sushma-shrestha-67a0a4236/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-<hr/>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushma-Shrestha&show_icons=true&theme=radical" />
-</div>
+
