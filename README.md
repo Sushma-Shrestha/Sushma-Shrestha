@@ -13,6 +13,11 @@
 
 ## 🚀 Languages and Tools:
 
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-Shrestha&layout=compact" />
+ </div>
+ <hr>
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -42,7 +47,7 @@
 <a href = "https://www.linkedin.com/in/sushma-shrestha-67a0a4236/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
+<hr/>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushma-Shrestha&show_icons=true&theme=radical" />
 </div>
