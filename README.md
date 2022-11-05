@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently honing my skills in **Flutter and React.**
 
 - 📫 How to reach me **janukashrestha2033@gmail.com**
 
