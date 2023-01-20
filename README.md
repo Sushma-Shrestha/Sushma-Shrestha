@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently honing my skills in **Flutter and React.**
 
-- 📫 How to reach me **janukashrestha2033@gmail.com**
+- 📫 How to reach me **janukashrestha2033@gmail.com & sushma.2009it@infomaxcollege.edu.np**
 
 - ⚡ Fun fact **I am a foodie.**
 
