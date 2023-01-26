@@ -37,10 +37,7 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
                 alt="photoshop" width="40" height="40" /> </a>
-        <a href="#" target="_blank"
-            rel="noreferrer"> <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png"
-                alt="React.js" width="40" height="40" /> </a>
+        <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="40"/></a>
 </p>
 
 <hr>
