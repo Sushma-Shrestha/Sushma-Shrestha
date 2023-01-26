@@ -33,10 +33,14 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="nestjs"
                     width="40" height="40" /> </a>
-      <a href="https://www.photoshop.com/en" target="_blank"
+      <a href="#" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
                 alt="photoshop" width="40" height="40" /> </a>
+        <a href="#" target="_blank"
+            rel="noreferrer"> <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png"
+                alt="React.js" width="40" height="40" /> </a>
 </p>
 
 <hr>
