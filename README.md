@@ -42,6 +42,9 @@
 
 <hr>
 <div align="center">
+    <img src="https://profile-counter.glitch.me/Sushma-Shrestha/count.svg" />
+</div>
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushma-Shrestha&show_icons=true&theme=radical" />
 </div>
 
