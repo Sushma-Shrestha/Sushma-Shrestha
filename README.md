@@ -3,14 +3,11 @@
 		<img alt="Sushma's Welcome Message"
 			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Sushma">
   <br />
+	<img src="https://profile-counter.glitch.me/Sushma-Shrestha/count.svg" />
 </p>
 <h3 align="center">Mobile and Web Application Developer from Pokhara, Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
-<div>
-     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Sushma-Shrestha/count.svg" />
-</div>
 ## 🙋‍♂️ About Me
 - 📱 I am Flutter/React developer with backend experience of laravel.
 
