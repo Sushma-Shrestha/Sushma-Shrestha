@@ -1,5 +1,9 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Sushma Shrestha</h1>
+<p align="center">
+		<img alt="Sushma's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Sushma">
+  <br />
+</p>
 <h3 align="center">Mobile and Web Application Developer from Pokhara, Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
