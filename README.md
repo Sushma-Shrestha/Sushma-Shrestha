@@ -11,9 +11,9 @@
 ## 🙋‍♂️ About Me
 - 📱 I am Flutter/React developer with backend experience of laravel.
 
-- 🌱 I’m currently honing my skills in **Flutter and React [Intermediate]**
+- 🌱 I’m currently honing my skills in **Flutter and React**
 
-- 💬 Ask me about **flutter, getx, react, hooks, and more.**
+- 💬 Ask me about **flutter, state, react, hooks, and more.**
 
 - ⚡ Fun fact **I am a foodie. I code, design, and cook up a storm**
 
