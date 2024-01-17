@@ -8,7 +8,9 @@
 <h3 align="center">Mobile and Web Application Developer from Pokhara, Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
+
 ## 🙋‍♂️ About Me
+
 - 📱 I am Flutter/React developer with backend experience of laravel.
 
 - 🌱 I’m currently honing my skills in **Flutter and React**
