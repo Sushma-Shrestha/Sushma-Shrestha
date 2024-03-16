@@ -5,24 +5,24 @@
   <br />
 <!-- 	<img src="https://profile-counter.glitch.me/Sushma-Shrestha/count.svg" /> -->
 </p>
-<h3 align="center">Mobile and Web Application Developer from Pokhara, Nepal</h3>
+<h3 align="center">Solution/App Developer from Pokhara, Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
-- 📱 I am Flutter/React developer with backend experience of laravel.
+- 📱 I am Solution/App developer with experience in React.js, Vue.js, Flutter and Laravel
 
-- 🌱 I’m currently honing my skills in **Flutter and React**
+- 🌱 I’m currently honing my skills in **Vue.js**
 
-- 💬 Ask me about **flutter, state, react, hooks, and more.**
+- 💬 Ask me about **flutter, state, react, hooks, MVC and more.**
 
 - ⚡ Fun fact **I am a foodie. I code, design, and cook up a storm**
 
 - 📫 How to reach me **janukashrestha2033@gmail.com & sushma.2009it@infomaxcollege.edu.np**
 
 ## Connect with me:
-<p align="left">
+<p align="left" style="margin-bottom: 10px;">
     <a href="https://twitter.com/SushmaS04828202" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sushma Shrestha" height="30" width="40" />
     </a>
@@ -42,7 +42,7 @@
     <tr>
         <td align="center" width="96">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
             </a> 
         </td>
         <td align="center" width="96">
@@ -124,7 +124,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
             </a> 
         </td>
         <td align="center" width="96">
@@ -134,7 +134,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> 
             </a> 
         </td>
         <td align="center" width="96">
