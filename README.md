@@ -5,21 +5,21 @@
   <br />
 <!-- 	<img src="https://profile-counter.glitch.me/Sushma-Shrestha/count.svg" /> -->
 </p>
-<h3 align="center">Solution/App Developer from Pokhara, Nepal</h3>
+<h3 align="center">Solution/App Developer from Reading, UK</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushma-Shrestha" alt="Sushma-Shrestha" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
-- 📱 I am Solution/App developer with experience in React.js, Vue.js, Flutter and Laravel
+- 📱 I am Solution/App developer with experience in Nuxt.js, Vue.js, and Laravel
 
-- 🌱 I’m currently honing my skills in **Vue.js**
+- 🌱 I’m currently honing my skills in **Data, AI and ML**
 
-- 💬 Ask me about **flutter, state, react, hooks, MVC and more.**
+- 💬 Ask me about **UI/UX, Scrum, and more.**
 
 - ⚡ Fun fact **I am a foodie. I code, design, and cook up a storm**
 
-- 📫 How to reach me **janukashrestha2033@gmail.com & sushma.2009it@infomaxcollege.edu.np**
+- 📫 How to reach me **sushma9037@gmail.com**
 
 ## Connect with me:
 <p align="left" style="margin-bottom: 10px;">
